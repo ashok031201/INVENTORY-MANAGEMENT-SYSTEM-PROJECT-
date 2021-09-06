@@ -11,3 +11,8 @@ This repository contains  all the code used for the inventory management system
 
 4.sales.json --> It contains what are the sales that have made. 
 
+
+OTHERS LINKS
+Linkedin-->https://www.linkedin.com/in/ashok-kumar-r-5b26451bb
+Instagram-->https://www.instagram.com/ashok031201?r=nametag
+
